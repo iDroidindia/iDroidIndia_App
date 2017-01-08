@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iDroidIndia</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_front_screen">Main_front_screen</string>
+    <string name="title_activity_training__programs">Training_Programs</string>
+    <string name="title_activity_training__schedule">Training_Schedule</string>
+    <string name="title_activity_google_map">Google_map</string>
+    <string name="title_activity_testing">testing</string>
+    <string name="title_activity_enquiry__form">Enquiry_Form</string>
+
+
+</resources>
